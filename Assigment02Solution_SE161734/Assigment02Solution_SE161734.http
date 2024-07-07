@@ -1,0 +1,6 @@
+@Assigment02Solution_SE161734_HostAddress = http://localhost:5030
+
+GET {{Assigment02Solution_SE161734_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
